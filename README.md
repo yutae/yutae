@@ -2,6 +2,7 @@
 
 **Flutter & iOS Developer at @naver**
 
+I'm an ambitious. 😎
 
 ----
 
