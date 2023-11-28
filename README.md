@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Flutter & iOS Developer at @naver** 🧑🏻‍💻
+**Flutter & iOS Developer** 🧑🏻‍💻
 
 ----
 
