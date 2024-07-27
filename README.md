@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Flutter & iOS Developer** 🧑🏻‍💻
+**Software Engineer (Flutter & iOS)** 🧑🏻‍💻
 
 ----
 
