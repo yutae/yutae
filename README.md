@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Staff Mobile Engineer at Coupang (Flutter & iOS)** 🧑🏻‍💻
+**Software Engineer (Flutter & iOS)** 🧑🏻‍💻
 
 ----
 
