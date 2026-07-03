@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Software Engineer (Flutter & iOS)** 🧑🏻‍💻
+**Software Engineer (Mobile & Frontend)** 🧑🏻‍💻
 
 ----
 
